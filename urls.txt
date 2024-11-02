@@ -1,0 +1,88 @@
+------------------wine
+https://www.lcbo.com/en/products/wine/red-wine#t=clp-products-wine-red_wine&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/wine/white-wine#t=clp-products-wine-white_wine&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/wine/rose-wine#t=clp-products-wine-ros%C3%A9_wine&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/wine/sparkling-wine#t=clp-products-wine-sparkling_wine&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/wine/champagne#t=clp-products-wine-champagne&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/wine/fortified-wine#t=clp-products-wine-fortified_wine&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/beer-cider/specialty-beer/sake-rice-wine#t=clp-products-wine-sake_%26_rice_wine&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/wine/icewine#t=clp-products-wine-icewine&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/wine/specialty-wine#t=clp-products-wine-specialty_wine&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/wine/wine-gifts-samplers#t=clp-products-wine-gifts_and_samplers&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/wine/dealcoholized-wine#t=clp-products-wine-dealcoholized_wine&sort=relevancy&layout=card
+
+Red Wine
+White Wine
+Rose Wine
+Sparkling Wine
+Champagne
+Fortified Wine
+Sake & Rice Wine
+Icewine
+Specialty Wine
+Gifts and Samplers
+Dealcoholized Wine
+
+------------------------sprits
+https://www.lcbo.com/en/products/spirits/whisky#t=clp-products-spirits-whisky&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/liqueur#t=clp-products-spirits-liqueur&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/tequila#t=clp-products-spirits-tequila&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/vodka#t=clp-products-spirits-vodka&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/rum#t=clp-products-spirits-rum&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/rum/amber-dark-rum/flavoured-rum#t=clp-products-spirits-rum-amber_%26_dark_rum-flavoured_rum&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/gin#t=clp-products-spirits-gin&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/cognac-brandy#t=clp-products-spirits-cognac_%26_brandy&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/grappa#t=clp-products-spirits-grappa&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/baijiu#t=clp-products-spirits-baijiu&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/soju#t=clp-products-spirits-soju&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/premixed-cocktails#t=clp-products-spirits-premixed_cocktails&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/spirits/gifts-and-samplers#t=clp-products-spirits-gifts_and_samplers&sort=relevancy&layout=card
+
+Whisky
+Liqueur
+Tequila
+Vodka
+Rum
+Flavoured Rum
+Gin
+Cognac & Brandy
+Grappa
+Baijiu
+Soju
+Premixed Cocktails
+Gifts and Samplers
+
+------------------------coolers
+https://www.lcbo.com/en/products/coolers-cocktails/seltzers-and-sodas#t=clp-products-coolers-seltzers_and_sodas&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/coolers-cocktails/coolers-cocktails#t=clp-products-coolers-coolers_%26_cocktails&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/coolers-cocktails/teas#t=clp-products-coolers-teas&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/coolers-cocktails/caesars#t=clp-products-coolers-caesars&sort=relevancy&layout=card
+
+Seltzers and Sodas
+Coolers & Cocktails
+Teas
+Caesars
+
+-----------------------------Beer & Cider
+https://www.lcbo.com/en/products/beer-cider/lager#t=clp-products-beer_%26_cider-lager&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/beer-cider/ale#t=clp-products-beer_%26_cider-ale&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/beer-cider/cider#t=clp-products-beer_%26_cider-cider&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/beer-cider/non-alcoholic-specialty-beer#t=clp-products-beer_%26_cider-non-alcoholic_%26_specialty&sort=relevancy&layout=card
+https://www.lcbo.com/en/products/beer-cider/gifts-and-samplers#t=clp-products-beer_%26_cider-gifts_and_samplers&sort=relevancy&layout=card
+
+Lager
+Ale
+Cider
+Non-Alcoholic & Specialty
+Gifts and Samplers
+
+------------------------------Vintages
+https://www.lcbo.com/en/vintages/new-release-collection#t=clp-vintages-new_release_collection&sort=relevancy&layout=card
+https://www.lcbo.com/en/vintages/online-exclusives#t=clp-vintages-online_exclusives&sort=relevancy&layout=card
+https://www.lcbo.com/en/vintages/vintages-essentials-collection#t=clp-vintages-vintages_essentials_collection&sort=relevancy&layout=card
+https://www.lcbo.com/en/products#t=clp-products&sort=relevancy&layout=card&f:@lcbo_program=[Vintages]
+
+New Release Collection
+Online Exclusives
+Essentials Collection
+Shop All Vintages
